@@ -8,9 +8,9 @@ Servidor HTTP/1.1 escrito em **C com Pthreads** para Linux, com mecanismos de **
 
 | Integrante | Papel (Scrum) |
 |---|---|
-| [NOME 1] | Scrum Master |
-| [NOME 2] | Product Owner |
-| [NOME 3] | Developer |
+| João Pedro Soll Dias | Scrum Master |
+| Simony Meira Franco Cogoy da Silva | Product Owner |
+| Samuel da Silva Martins | Developer |
 
 ## Versões (MVPs)
 

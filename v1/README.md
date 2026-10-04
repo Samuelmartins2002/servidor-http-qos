@@ -4,9 +4,9 @@ Disciplina: Fundamentos e Avaliação de Redes de Computadores (UNIPAMPA, 2026/2
 
 ## Integrantes
 
-- [NOME 1]
-- [NOME 2]
-- [NOME 3]
+- João Pedro Soll Dias
+- Samuel da Silva Martins
+- Simony Meira Franco Cogoy da Silva
 
 ## Escopo da versão
 

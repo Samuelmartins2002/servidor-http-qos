@@ -67,4 +67,4 @@ Trechos de código obtidos na Internet ou produzidos com apoio de IA devem ser r
 
 | Arquivo / trecho | Origem (site ou ferramenta de IA) | Observação |
 |---|---|---|
-| (nenhum até o momento) | | |
+| Auxilio no desenvolvimento do código | Chatgpt | |

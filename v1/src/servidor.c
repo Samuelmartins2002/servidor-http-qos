@@ -16,6 +16,8 @@
  * Nota: o envio de arquivos e feito em blocos (BLOCO_ENVIO) dentro da
  * funcao enviar_arquivo(); e nesse laco que o controle de taxa da V2
  * sera inserido.
+ *
+ * OBS: Código desenvolvido com auxílio de inteligência artificial (IA)
  */
 #define _GNU_SOURCE
 #include <stdio.h>
